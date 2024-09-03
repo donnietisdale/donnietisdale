@@ -3,8 +3,8 @@
 - 👨🏼‍💻 I’m currently learning what I'm capable of as the code goes on and on.
 - 👀 I’m looking to collaborate on when you know you know.
 - 👊🏼 How to reach me here and there and everywhere in between.
-- 🙋🏼‍♂️ Pronouns: he/him/his
-- 🥳 Fun fact: Stories are what is between adventures.
+- 🙋🏼‍♂️ he/him/his
+- 🥳 Stories are what is between adventures.
 
 <!---
 donnietisdale/donnietisdale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
