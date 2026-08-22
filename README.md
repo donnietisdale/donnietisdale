@@ -2,7 +2,7 @@
 - 🤔 I’m interested in learning what the hell is a "repository." 
 - 👨🏼‍💻 I’m currently learning what I'm capable of as the code goes on and on.
 - 👀 I’m looking to collaborate on when you know you know.
-- 👊🏼 How to reach me here and there and everywhere in between.
+- 👊🏼 How to [reach me](https://linktr.ee/donnietisdale) here and there and everywhere in between.
 - 🙋🏼‍♂️ he/him/his
 - 🥳 Stories are what is between adventures.
 
